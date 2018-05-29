@@ -1,0 +1,2 @@
+testOnly exercises.types.ClassesSpec
+~testOnly exercises.types.ClassesSpec
