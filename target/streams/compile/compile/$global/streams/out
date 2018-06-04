@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\JtPC\Desktop\my-tasks\src\main\scala\com\example\mytasks\http\Routes.scala:8:27: could not find implicit value for parameter F: cats.Monad[F][0m
+[0m[[0m[31merror[0m] [0m[0m    case GET -> Root => Ok("Hola")[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\JtPC\Desktop\my-tasks\src\main\scala\com\example\mytasks\http\Routes.scala:7:47: could not find implicit value for parameter F: cats.Applicative[F][0m
+[0m[[0m[31merror[0m] [0m[0m  val service: HttpService[F] = HttpService[F]{[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

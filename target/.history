@@ -1,2 +1,6 @@
 testOnly exercises.types.ClassesSpec
 ~testOnly exercises.types.ClassesSpec
+testOnly
+testOnly exercises.challenges.KakuroSpec
+sbt compile
+compile
